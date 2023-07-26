@@ -1,2 +1,2 @@
-# GymApp
+# GymAppDoc
 Aplicativo Exercício
